@@ -1,5 +1,6 @@
 /**
  * This class provides a convenient way to test shuffling methods.
+ * Yo like on Jah
  */
 public class Shuffler {
 
